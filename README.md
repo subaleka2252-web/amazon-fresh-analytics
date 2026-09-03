@@ -23,3 +23,11 @@ To analyze Amazon Fresh data using SQL and generate meaningful business insights
 ## 📌 Outcome
 
 The analysis transformed raw Amazon Fresh data into useful insights related to sales, products, and customer behavior using SQL.
+
+## 📊 SQL Analysis Preview
+
+### SQL Analysis – 1
+![Amazon Fresh SQL Analysis 1](amazon-fresh-sql-analysis-1.png)
+
+### SQL Analysis – 2
+![Amazon Fresh SQL Analysis 2](amazon-fresh-sql-analysis-2.png)
